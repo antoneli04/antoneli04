@@ -3,9 +3,7 @@
   
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg"/>
 
-<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-
-###Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>
+### Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -21,3 +19,4 @@
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
 
+<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
