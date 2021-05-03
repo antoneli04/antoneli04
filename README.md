@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
-<h4 align="left"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
+<h4 align="center"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
 
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="400px" />
 
