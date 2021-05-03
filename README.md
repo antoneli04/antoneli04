@@ -2,10 +2,12 @@
 
 <img align="left" src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg"/>
 
-### 👨‍💻 Languages and Tools           <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
+### 👨‍💻 Languages and Tools          
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)       
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   
+***![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)   
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)   
