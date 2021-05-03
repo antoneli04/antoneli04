@@ -1,11 +1,11 @@
 <h2 align="left"> Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
-<h4 align="left"> My name is Eli.I`m a passionate Front-end developer from Mexico living in Quintana Roo and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
+<h4 align="left"> My name is Eli. I`m a passionate Front-end developer from Mexico living in Quintana Roo and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
   
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg"/>
 
 <img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
-<h4 align="left> Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/><h4/>
+###Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
