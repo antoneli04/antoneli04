@@ -2,7 +2,6 @@
 <h3 align="left">A passionate frontend developer from Mexico</h3>
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="700px"/>
 
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 ###  Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/>     
 
@@ -21,3 +20,4 @@
 
 
 
+<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
