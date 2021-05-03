@@ -20,5 +20,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
-<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="center" src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952sqvvi1ke0z7dnlwl0ktguqh50lticbw63dqexzc4&rid=giphy.gif&ct=s"/>
