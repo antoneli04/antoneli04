@@ -1,9 +1,11 @@
 ### Hi there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Eli! 
-<img align="left" src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg"/>
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-### 👨‍💻 Languages and Tools          
 
-***
+<img align="left" src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg"/>
+
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools          
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)       
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
@@ -16,9 +18,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)   
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
-
-
-
-
-
 
