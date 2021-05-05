@@ -6,7 +6,7 @@
  
 <h4 align="center"><img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="300px" />
 
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"  align="center"/>
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" width="200px"  align="center"/>
 <h4/>
 
 <h3 align="center">Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/><h3/>
