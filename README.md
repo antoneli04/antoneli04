@@ -4,7 +4,7 @@
 <h4 align="center"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo
   and currently studing at Laboratoria, you can find me on LinkedIn<h4/> 
 
-<h4 align="left"><img src="https://i.pinimg.com/originals/3c/d4/43/3cd443de4374631069c6596c8f625454.gif" width="300px" /> <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" width="200px"/><h4/>
+<h4 align="center"><img src="https://i.pinimg.com/originals/3c/d4/43/3cd443de4374631069c6596c8f625454.gif" width="400px" /> <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" width="200px"/><h4/>
 
 <h3 align="center"><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>Languages and Tools <h3/>
 
