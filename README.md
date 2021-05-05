@@ -4,7 +4,7 @@
 <h4 align="center"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo
   and currently studing at Laboratoria, you can find me on LinkedIn<h4/> 
 
-<h4 align="center"><img src="https://i.pinimg.com/originals/3c/d4/43/3cd443de4374631069c6596c8f625454.gif" width="400px" /> <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" width="200px"/><h4/>
+<h4 align="center"><img src="https://i.pinimg.com/originals/3c/d4/43/3cd443de4374631069c6596c8f625454.gif" width="400px" /><h4/>
 
 <h3 align="center"><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>Languages and Tools <h3/>
 
@@ -25,5 +25,5 @@
 
 <img src="https://scontent.fmid5-1.fna.fbcdn.net/v/t1.6435-9/182786541_1652041965183265_3308359802036143356_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEvkzf93A1GnXH-HSBqnlDDJ1Tz2gIDIsYnVPPaAgMixuv22-bWxmeN9K3yvcTvGXsLCSwKSxgepCaHODo6QGgT&_nc_ohc=0egzfnRg1uYAX-VI9xB&_nc_ht=scontent.fmid5-1.fna&oh=b7fb9e8619a2a1ec8bd48d41afd29718&oe=60B951E7"/>
 
-
+ <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" width="200px"/>
  [Linkedin](https://www.linkedin.com/in/antoneli-g-hdz/)	
