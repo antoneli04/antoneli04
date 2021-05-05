@@ -1,4 +1,5 @@
-<img align="left" src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952sqvvi1ke0z7dnlwl0ktguqh50lticbw63dqexzc4&rid=giphy.gif&ct=s"  width="50px"/><h2 align="left"> Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
+<h2 align="left"> <img align="center" src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952sqvvi1ke0z7dnlwl0ktguqh50lticbw63dqexzc4&rid=giphy.gif&ct=s"  width="50px"/>
+ Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
 <h4 align="center"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo
   and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
 
