@@ -1,10 +1,10 @@
-<h2 align="center"> Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
+<img align="left" src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952sqvvi1ke0z7dnlwl0ktguqh50lticbw63dqexzc4&rid=giphy.gif&ct=s"  width="50px"/><h2 align="left"> Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"><h2/>
 <h4 align="center"> My name is Eli. I`m a passionate Front-end developer from Mexico, living in Quintana Roo
   and currently studing at Laboratoria, you can find me on LinkedIn<h4/>
 
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="400px" />
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/000/229/542/non_2x/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="300px" />
 
-<img align="center" src="https://camo.githubusercontent.com/22e894d2c492439656d018629cec2c9ec587f1819f5d4634eb34f427b83db3a8/68747470733a2f2f33312e6d656469612e74756d626c722e636f6d2f34313238643834666331346635633337363862373437363336313831626263362f74756d626c725f6d786c6f786244513168317161367139756f315f72315f3530302e676966" width="400px" />
+<img align="center" src="https://camo.githubusercontent.com/22e894d2c492439656d018629cec2c9ec587f1819f5d4634eb34f427b83db3a8/68747470733a2f2f33312e6d656469612e74756d626c722e636f6d2f34313238643834666331346635633337363862373437363336313831626263362f74756d626c725f6d786c6f786244513168317161367139756f315f72315f3530302e676966" width="300px" />
 
 ### Languages and Tools <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50vw"/>
 
@@ -22,4 +22,4 @@
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-<img align="center" src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952sqvvi1ke0z7dnlwl0ktguqh50lticbw63dqexzc4&rid=giphy.gif&ct=s"/>
+
